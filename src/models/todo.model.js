@@ -7,4 +7,4 @@ const schema = new Schema({
   timestamp: Date,
 });
 
-module.exports= model('todo', schema)
+module.exports = model('todo', schema);
